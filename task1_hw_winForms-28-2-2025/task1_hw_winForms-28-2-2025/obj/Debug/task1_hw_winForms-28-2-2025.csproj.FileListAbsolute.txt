@@ -1,0 +1,10 @@
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\obj\Debug\task1_hw_winForms-28-2-2025.csproj.AssemblyReference.cache
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\obj\Debug\task1_hw_winForms_28_2_2025.Form1.resources
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\obj\Debug\task1_hw_winForms_28_2_2025.Properties.Resources.resources
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\obj\Debug\task1_hw_winForms-28-2-2025.csproj.GenerateResource.cache
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\obj\Debug\task1_hw_winForms-28-2-2025.csproj.CoreCompileInputs.cache
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\bin\Debug\task1_hw_winForms-28-2-2025.exe.config
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\bin\Debug\task1_hw_winForms-28-2-2025.exe
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\bin\Debug\task1_hw_winForms-28-2-2025.pdb
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\obj\Debug\task1_hw_winForms-28-2-2025.exe
+D:\it-hub\winForms-hw\winForms-28-2-2025\task1_hw_winForms-28-2-2025\task1_hw_winForms-28-2-2025\obj\Debug\task1_hw_winForms-28-2-2025.pdb
